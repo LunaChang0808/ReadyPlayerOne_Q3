@@ -1,0 +1,1596 @@
+[
+  {
+    "name": "games.Republic of Korea.NCSOFT",
+    "imports": [
+      "games.Republic of Korea.NCSOFT"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Netmarble Corporation",
+    "imports": [
+      "games.Republic of Korea.Netmarble Corporation",
+      "games.Japan.DELiGHTWorks",
+      "games.China.Tencent game",
+      "games.China.Seasun Games"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.NEXON",
+    "imports": [
+      "games.Republic of Korea.NEXON",
+      "games.USA.Electronic Arts"
+    ]
+  },
+  {
+    "name": "games.China.X D Network",
+    "imports": [
+      "games.China.Sunborn",
+      "games.China.X D Network",
+      "games.China.NetEase games",
+      "games.Japan.DeNA",
+      "games.China.Xiamen So Funny"
+    ]
+  },
+  {
+    "name": "games.China.Sunborn",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.Kakao",
+    "imports": [
+      "games.Republic of Korea.Kakao",
+      "games.China.NetEase games",
+      "games.Republic of Korea.FHLgames",
+      "games.China.Happy Elements",
+      "games.Japan.Craft Egg",
+      "games.China.GAME O",
+      "games.Republic of Korea.JoyCity",
+      "games.Japan.CyberAgent",
+      "games.China.Beijing blueprint",
+      "games.Republic of Korea.XL Games"
+    ]
+  },
+  {
+    "name": "games.China.miHoYo",
+    "imports": [
+      "games.China.miHoYo"
+    ]
+  },
+  {
+    "name": "games.Japan.DELiGHTWorks",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.Neowiz",
+    "imports": [
+      "games.Republic of Korea.Neowiz",
+      "games.Republic of Korea.GAMFS"
+    ]
+  },
+  {
+    "name": "games.Finland.Supercell",
+    "imports": [
+      "games.Finland.Supercell"
+    ]
+  },
+  {
+    "name": "games.China.Fuzhou SkyUnion Digital(IGG)",
+    "imports": [
+      "games.China.Fuzhou SkyUnion Digital(IGG)"
+    ]
+  },
+  {
+    "name": "games.USA.Electronic Arts",
+    "imports": [
+      "games.USA.Electronic Arts"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.GAMEVIL",
+    "imports": [
+      "games.Republic of Korea.GAMEVIL"
+    ]
+  },
+  {
+    "name": "games.China.Longtugame",
+    "imports": [
+      "games.China.Longtugame",
+      "games.China.NetEase games",
+      "games.China.Zhejiang Xingfei",
+      "games.China.Shanghai Taren",
+      "games.China.Lilith game"
+    ]
+  },
+  {
+    "name": "games.USA.Machine Zone",
+    "imports": [
+      "games.USA.Machine Zone"
+    ]
+  },
+  {
+    "name": "games.Japan.Bandai Namco Entertainment",
+    "imports": [
+      "games.Japan.Bandai Namco Entertainment",
+      "games.Japan.Akatsuki",
+      "games.Japan.CyberAgent",
+      "games.Japan.BXD"
+    ]
+  },
+  {
+    "name": "games.China.Jedi Games",
+    "imports": [
+      "games.China.Jedi Games"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Devsisters",
+    "imports": [
+      "games.Republic of Korea.Devsisters"
+    ]
+  },
+  {
+    "name": "games.China.DHGames",
+    "imports": [
+      "games.China.DHGames"
+    ]
+  },
+  {
+    "name": "games.China.Fun Plus",
+    "imports": [
+      "games.China.Fun Plus",
+      "games.China.Kings Group",
+      "games.China.GAME O",
+      "games.China.Wuhan shanbaihe"
+    ]
+  },
+  {
+    "name": "games.China.EFUN",
+    "imports": [
+      "games.China.Jiangsu Hongao",
+      "games.China.NetEase games",
+      "games.China.Rastar Game",
+      "games.China.Capstone Games",
+      "games.China.Perfect World",
+      "games.China.Winger network",
+      "games.China.Shanghai yunmiao"
+    ]
+  },
+  {
+    "name": "games.China.Jiangsu Hongao",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.GAMFS",
+    "imports": []
+  },
+  {
+    "name": "games.China.NetEase games",
+    "imports": [
+      "games.China.NetEase games",
+      "games.USA.Activision Blizzard",
+      "games.China.9you",
+      "games.Japan.Square Enix",
+      "games.Japan.CyberAgent",
+      "games.Japan.KONAMI"
+    ]
+  },
+  {
+    "name": "games.USA.Activision Blizzard",
+    "imports": [
+      "games.USA.Activision Blizzard",
+      "games.China.Tencent game"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.NHN Entertainment",
+    "imports": [
+      "games.Republic of Korea.NHN Entertainment",
+      "games.Republic of Korea.Loadcomplete",
+      "games.Japan.NHN Comico"
+    ]
+  },
+  {
+    "name": "games.Russia.Playrix",
+    "imports": [
+      "games.Russia.Playrix"
+    ]
+  },
+  {
+    "name": "games.China.Tencent game",
+    "imports": [
+      "games.China.Tencent game",
+      "games.China.Tianma",
+      "games.Republic of Korea.Smilegate",
+      "games.China.Changyou",
+      "games.China.Seasun Games",
+      "games.China.Pixel software",
+      "games.China.Rastar Game",
+      "games.China.GAME O",
+      "games.China.Giant Interactive",
+      "games.China.Playcrab",
+      "games.China.Shanghai Moyu",
+      "games.China.Ourpalm",
+      "games.China.DigiSky",
+      "games.China.Beijing aileyou",
+      "games.China.Yonghang Technology",
+      "games.USA.Electronic Arts",
+      "games.China.Yinhan Technology",
+      "games.China.91ACT",
+      "games.China.Capstone Games",
+      "games.China.Beijing Com4loves Technology",
+      "games.China.Beijing game Valley",
+      "games.China.Ledo",
+      "games.China.Beijing eplay",
+      "games.China.Chengdu Yuxiang",
+      "games.China.Perfect World",
+      "games.China.Shanghai Youxiang",
+      "games.China.Kingnet",
+      "games.China.Beijing moge",
+      "games.China.Guangzhou Indrasoft",
+      "games.China.Tiancity",
+      "games.China.Yoozoo Games",
+      "games.China.Guangzhou Baitian",
+      "games.China.Beijing blueprint"
+    ]
+  },
+  {
+    "name": "games.China.Changyou",
+    "imports": [
+      "games.China.Changyou",
+      "games.China.Guangzhou Nemo"
+    ]
+  },
+  {
+    "name": "games.USA.Niantic",
+    "imports": [
+      "games.USA.Niantic"
+    ]
+  },
+  {
+    "name": "games.China.Ultrapower",
+    "imports": [
+      "games.China.Camel game",
+      "games.China.Ultrapower"
+    ]
+  },
+  {
+    "name": "games.China.Camel game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Elex Technology",
+    "imports": [
+      "games.China.Elex Technology"
+    ]
+  },
+  {
+    "name": "games.China.Kings Group",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.Loadcomplete",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.Akatsuki",
+    "imports": [
+      "games.Japan.Bushiroad",
+      "games.Japan.Akatsuki"
+    ]
+  },
+  {
+    "name": "games.China.Seasun Games",
+    "imports": [
+      "games.China.Seasun Games"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Vespa Interactive",
+    "imports": [
+      "games.Republic of Korea.Vespa Interactive"
+    ]
+  },
+  {
+    "name": "games.China.OurPalm",
+    "imports": [
+      "games.China.Ourpalm",
+      "games.China.OurPalm",
+      "games.China.Playcrab"
+    ]
+  },
+  {
+    "name": "games.China.Ourpalm",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.KONAMI",
+    "imports": [
+      "games.Japan.KONAMI"
+    ]
+  },
+  {
+    "name": "games.China.Long Tech Network",
+    "imports": [
+      "games.China.Long Tech Network"
+    ]
+  },
+  {
+    "name": "games.Israel.Playtika",
+    "imports": [
+      "games.Israel.Playtika"
+    ]
+  },
+  {
+    "name": "games.USA.Roblox",
+    "imports": [
+      "games.USA.Roblox"
+    ]
+  },
+  {
+    "name": "games.Turkey.Peak Game",
+    "imports": [
+      "games.Turkey.Peak Game"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.DoubleU",
+    "imports": [
+      "games.Republic of Korea.DoubleU"
+    ]
+  },
+  {
+    "name": "games.Australia.Aristocrat",
+    "imports": [
+      "games.Australia.Aristocrat"
+    ]
+  },
+  {
+    "name": "games.USA.Time Warner",
+    "imports": [
+      "games.USA.Time Warner"
+    ]
+  },
+  {
+    "name": "games.Poland.Huuuge Games",
+    "imports": [
+      "games.Poland.Huuuge Games"
+    ]
+  },
+  {
+    "name": "games.USA.Scientific Games",
+    "imports": [
+      "games.USA.Scientific Games"
+    ]
+  },
+  {
+    "name": "games.USA.Glu",
+    "imports": [
+      "games.USA.Glu"
+    ]
+  },
+  {
+    "name": "games.Japan.Nintendo",
+    "imports": [
+      "games.Japan.Nintendo",
+      "games.Japan.CyberAgent"
+    ]
+  },
+  {
+    "name": "games.USA.Pocket Gems",
+    "imports": [
+      "games.USA.Pocket Gems"
+    ]
+  },
+  {
+    "name": "games.USA.Playstudio",
+    "imports": [
+      "games.USA.Playstudio"
+    ]
+  },
+  {
+    "name": "games.Japan.Sony",
+    "imports": [
+      "games.Japan.DELiGHTWorks",
+      "games.Japan.Sony",
+      "games.Japan.COLOPL",
+      "games.Japan.CyberAgent"
+    ]
+  },
+  {
+    "name": "games.Finland.Rovio",
+    "imports": [
+      "games.Finland.Rovio"
+    ]
+  },
+  {
+    "name": "games.Switzerland.Miniclip",
+    "imports": [
+      "games.Switzerland.Miniclip"
+    ]
+  },
+  {
+    "name": "games.USA.Microsoft",
+    "imports": [
+      "games.Sweden.mojang"
+    ]
+  },
+  {
+    "name": "games.Sweden.mojang",
+    "imports": []
+  },
+  {
+    "name": "games.USA.Zynga",
+    "imports": [
+      "games.USA.Zynga"
+    ]
+  },
+  {
+    "name": "games.China.ONEMT",
+    "imports": [
+      "games.China.ONEMT"
+    ]
+  },
+  {
+    "name": "games.USA.Scopely",
+    "imports": [
+      "games.USA.Scopely"
+    ]
+  },
+  {
+    "name": "games.Cyprus.PixelGun",
+    "imports": [
+      "games.Cyprus.PixelGun"
+    ]
+  },
+  {
+    "name": "games.Russia.Mail Ru Group",
+    "imports": [
+      "games.Russia.Mail Ru Group"
+    ]
+  },
+  {
+    "name": "games.Sweden.G5 Entertainment",
+    "imports": [
+      "games.Sweden.G5 Entertainment"
+    ]
+  },
+  {
+    "name": "games.Russia.MyTona",
+    "imports": [
+      "games.Russia.MyTona"
+    ]
+  },
+  {
+    "name": "games.Ukraine.Murka",
+    "imports": [
+      "games.Ukraine.Murka"
+    ]
+  },
+  {
+    "name": "games.USA.N3TWORK",
+    "imports": [
+      "games.USA.N3TWORK"
+    ]
+  },
+  {
+    "name": "games.USA.PlayStudios",
+    "imports": [
+      "games.Japan.Konami"
+    ]
+  },
+  {
+    "name": "games.Japan.Konami",
+    "imports": [
+      "games.Japan.KONAMI",
+      "games.Japan.Konami"
+    ]
+  },
+  {
+    "name": "games.Finland.Small Giant Games",
+    "imports": [
+      "games.Finland.Small Giant Games"
+    ]
+  },
+  {
+    "name": "games.China.Volcano-force",
+    "imports": [
+      "games.China.Volcano-force"
+    ]
+  },
+  {
+    "name": "games.Japan.Gungho",
+    "imports": [
+      "games.China.X D Network",
+      "games.Japan.Gungho"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Mad Head",
+    "imports": [
+      "games.Taiwan, China.Mad Head"
+    ]
+  },
+  {
+    "name": "games.Singapore.SEA",
+    "imports": [
+      "games.China.Tencent game",
+      "games.China.Changyou",
+      "games.Singapore.SEA"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Wanin Games",
+    "imports": [
+      "games.Taiwan, China.Wanin Games"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Galaxy Online",
+    "imports": [
+      "games.Taiwan, China.Galaxy Online"
+    ]
+  },
+  {
+    "name": "games.China.Chuang Cool Entertainment",
+    "imports": [
+      "games.China.Chuang Cool Entertainment"
+    ]
+  },
+  {
+    "name": "games.China.Youkia",
+    "imports": [
+      "games.China.Youkia"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Soft-World International Corporation",
+    "imports": [
+      "games.Japan.DELiGHTWorks",
+      "games.Taiwan, China.Soft-World International Corporation",
+      "games.Japan.SQUARE ENIX"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.USERJOY",
+    "imports": [
+      "games.Taiwan, China.USERJOY",
+      "games.China.Rastar Game"
+    ]
+  },
+  {
+    "name": "games.China.Rastar Game",
+    "imports": [
+      "games.China.Rastar Game"
+    ]
+  },
+  {
+    "name": "games.China.37GAMES",
+    "imports": [
+      "games.China.37GAMES",
+      "games.China.GAME O",
+      "games.China.Shanghai Feihu",
+      "games.China.Hainan Yuanyou",
+      "games.China.NetEase games",
+      "games.China.Yinhan Technology",
+      "games.China.Beijing Shuiguotang",
+      "games.China.Beijing Dpstorm",
+      "games.China.Tencent game",
+      "games.China.Perfect World",
+      "games.China.Beijing Youyi"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Gamesofa",
+    "imports": [
+      "games.Taiwan, China.Gamesofa"
+    ]
+  },
+  {
+    "name": "games.China.Dianchu Technology",
+    "imports": [
+      "games.China.Dianchu Technology"
+    ]
+  },
+  {
+    "name": "games.Japan.MIXI",
+    "imports": [
+      "games.Japan.MIXI"
+    ]
+  },
+  {
+    "name": "games.China.Perfect World",
+    "imports": [
+      "games.China.Perfect World",
+      "games.China.NTFusion"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.9splay",
+    "imports": [
+      "games.China.Guangzhou Haodong",
+      "games.China.Xunlong Chuangwei"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou Haodong",
+    "imports": []
+  },
+  {
+    "name": "games.Taiwan, China.International Games System",
+    "imports": [
+      "games.Taiwan, China.International Games System"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.IGS",
+    "imports": [
+      "games.Taiwan, China.IGS"
+    ]
+  },
+  {
+    "name": "games.China.Eyou",
+    "imports": [
+      "games.China.Guangzhou Express",
+      "games.China.Guangzhou Le Niu",
+      "games.China.Guangzhou Cool tour"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou Express",
+    "imports": []
+  },
+  {
+    "name": "games.China.Yotta Games",
+    "imports": [
+      "games.China.Yotta Games"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.IWPLAY World",
+    "imports": [
+      "games.China.Perfect World"
+    ]
+  },
+  {
+    "name": "games.Japan.PONOS",
+    "imports": [
+      "games.Japan.PONOS"
+    ]
+  },
+  {
+    "name": "games.China.Hero Entertainment",
+    "imports": [
+      "games.China.Beijing taiyouxi",
+      "games.China.Chengdu lmd game",
+      "games.China.Tianma",
+      "games.USA.Electronic Arts",
+      "games.China.Youkia",
+      "games.China.Guangzhou Kuluo"
+    ]
+  },
+  {
+    "name": "games.China.Beijing taiyouxi",
+    "imports": []
+  },
+  {
+    "name": "games.China.GAME O",
+    "imports": [
+      "games.China.GAME O"
+    ]
+  },
+  {
+    "name": "games.China.DigiSky",
+    "imports": [
+      "games.China.DigiSky",
+      "games.China.Sunborn"
+    ]
+  },
+  {
+    "name": "games.China.Tap4fun",
+    "imports": [
+      "games.China.Tap4fun"
+    ]
+  },
+  {
+    "name": "games.China.Chengdu lmd game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Kunlun Tech",
+    "imports": [
+      "games.China.Kingnet",
+      "games.China.GAME O",
+      "games.China.Kunlun Tech"
+    ]
+  },
+  {
+    "name": "games.China.Kingnet",
+    "imports": [
+      "games.China.Shanghai Zhina",
+      "games.China.Kingnet"
+    ]
+  },
+  {
+    "name": "games.China.Gamesofa",
+    "imports": [
+      "games.China.Gamesofa"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.FHLgames",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.Pearl Abyss",
+    "imports": [
+      "games.Republic of Korea.Pearl Abyss"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai Feihu",
+    "imports": []
+  },
+  {
+    "name": "games.China.NTFusion",
+    "imports": []
+  },
+  {
+    "name": "games.China.Happy Elements",
+    "imports": [
+      "games.China.Happy Elements"
+    ]
+  },
+  {
+    "name": "games.Japan.Craft Egg",
+    "imports": []
+  },
+  {
+    "name": "games.Brazil.TFG Co",
+    "imports": [
+      "games.Brazil.TFG Co"
+    ]
+  },
+  {
+    "name": "games.China.Wanda",
+    "imports": [
+      "games.China.Hulai game",
+      "games.China.Capstone Games"
+    ]
+  },
+  {
+    "name": "games.China.Hulai game",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.COLOPL",
+    "imports": [
+      "games.Japan.COLOPL"
+    ]
+  },
+  {
+    "name": "games.China.Galaxy Online",
+    "imports": [
+      "games.China.Galaxy Online"
+    ]
+  },
+  {
+    "name": "games.China.U LU",
+    "imports": [
+      "games.China.Guangzhou Chuyu",
+      "games.China.Guangzhou rice husk",
+      "games.China.Dokemeng",
+      "games.China.Amuse each other",
+      "games.China.Shanghai Yiwan"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou Chuyu",
+    "imports": []
+  },
+  {
+    "name": "games.USA.Epic Games",
+    "imports": [
+      "games.USA.Epic Games"
+    ]
+  },
+  {
+    "name": "games.Israel.MoonActive",
+    "imports": [
+      "games.Israel.MoonActive"
+    ]
+  },
+  {
+    "name": "games.China.Leiting Games",
+    "imports": [
+      "games.China.Taojinhudong",
+      "games.China.G-bits",
+      "games.China.Avalon Game"
+    ]
+  },
+  {
+    "name": "games.China.Taojinhudong",
+    "imports": []
+  },
+  {
+    "name": "games.China.SpringGame",
+    "imports": [
+      "games.China.ShenZhen Dameng Longtu",
+      "games.China.SpringGame",
+      "games.China.Skymoons"
+    ]
+  },
+  {
+    "name": "games.China.ShenZhen Dameng Longtu",
+    "imports": [
+      "games.China.ShenZhen Dameng Longtu"
+    ]
+  },
+  {
+    "name": "games.China.Hainan Yuanyou",
+    "imports": []
+  },
+  {
+    "name": "games.China.Sky Entertainment Network",
+    "imports": [
+      "games.China.Wuhan chuangyou",
+      "games.China.Guangzhou rice husk",
+      "games.China.Sky Entertainment Network",
+      "games.China.Guangzhou Nemo",
+      "games.China.Yoka Games"
+    ]
+  },
+  {
+    "name": "games.China.Wuhan chuangyou",
+    "imports": []
+  },
+  {
+    "name": "games.USA.Disney",
+    "imports": [
+      "games.USA.Disney"
+    ]
+  },
+  {
+    "name": "games.China.YOOZOO",
+    "imports": [
+      "games.China.YOOZOO",
+      "games.China.Perfect World",
+      "games.China.Tencent game"
+    ]
+  },
+  {
+    "name": "games.China.Word Find",
+    "imports": [
+      "games.China.Word Find"
+    ]
+  },
+  {
+    "name": "games.China.Tianma",
+    "imports": [
+      "games.China.Playcrab"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou Le Niu",
+    "imports": []
+  },
+  {
+    "name": "games.China.efunfun",
+    "imports": [
+      "games.China.Beijing Linyou interactive",
+      "games.China.91ACT",
+      "games.China.Amuse each other",
+      "games.China.NetEase games"
+    ]
+  },
+  {
+    "name": "games.China.Beijing Linyou interactive",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.Klab",
+    "imports": [
+      "games.Japan.Klab",
+      "games.Japan.Bushiroad",
+      "games.Japan.Broccoli\u3001Klab"
+    ]
+  },
+  {
+    "name": "games.Japan.CyberAgent",
+    "imports": [
+      "games.Japan.CyberAgent",
+      "games.Japan.Craft Egg"
+    ]
+  },
+  {
+    "name": "games.China.GAEA",
+    "imports": [
+      "games.China.GAEA",
+      "games.China.NetEase games"
+    ]
+  },
+  {
+    "name": "games.China.AliGames",
+    "imports": [
+      "games.China.Youkia",
+      "games.China.Perfect World",
+      "games.China.Snail Game",
+      "games.China.Beijing Yunchang",
+      "games.France.Gameloft",
+      "games.China.EJOY"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.PUBG",
+    "imports": [
+      "games.China.Tencent game"
+    ]
+  },
+  {
+    "name": "games.China.FriendTimes",
+    "imports": [
+      "games.China.FriendTimes"
+    ]
+  },
+  {
+    "name": "games.China.IWPLAY World",
+    "imports": [
+      "games.Republic of Korea.RAIDMOB",
+      "games.China.Perfect World"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.RAIDMOB",
+    "imports": []
+  },
+  {
+    "name": "games.China.Capstone Games",
+    "imports": []
+  },
+  {
+    "name": "games.Finland.Seriously Digital Entertainment",
+    "imports": [
+      "games.Finland.Seriously Digital Entertainment"
+    ]
+  },
+  {
+    "name": "games.Japan.DeNA",
+    "imports": [
+      "games.Japan.DeNA",
+      "games.Japan.CyberAgent",
+      "games.China.Chengdu lmd game"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Wemade",
+    "imports": [
+      "games.Republic of Korea.Wemade"
+    ]
+  },
+  {
+    "name": "games.China.Lilith Games",
+    "imports": [
+      "games.China.Lilith Games",
+      "games.China.Chengdu Legou"
+    ]
+  },
+  {
+    "name": "games.USA.Storm8",
+    "imports": [
+      "games.USA.Storm8"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou rice husk",
+    "imports": []
+  },
+  {
+    "name": "games.China.Xunlong Chuangwei",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.Smilegate",
+    "imports": [
+      "games.Republic of Korea.Super Creative"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Super Creative",
+    "imports": []
+  },
+  {
+    "name": "games.China.Playcrab",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.JoyCity",
+    "imports": []
+  },
+  {
+    "name": "games.China.Chengdu Legou",
+    "imports": []
+  },
+  {
+    "name": "games.China.Magic Tavern",
+    "imports": [
+      "games.China.Magic Tavern"
+    ]
+  },
+  {
+    "name": "games.China.Mechanist\u00a0Games",
+    "imports": [
+      "games.China.Dianchu Technology"
+    ]
+  },
+  {
+    "name": "games.China.Zlongame",
+    "imports": [
+      "games.China.Zlongame",
+      "games.China.EJOY",
+      "games.China.Beijing miracle Era"
+    ]
+  },
+  {
+    "name": "games.China.Yinhan Technology",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.GREE",
+    "imports": [
+      "games.Japan.GREE",
+      "games.Japan.WFS"
+    ]
+  },
+  {
+    "name": "games.USA.PlayStudio",
+    "imports": [
+      "games.USA.PlayStudio"
+    ]
+  },
+  {
+    "name": "games.China.4399",
+    "imports": [
+      "games.China.4399"
+    ]
+  },
+  {
+    "name": "games.China.Beijing Shuiguotang",
+    "imports": []
+  },
+  {
+    "name": "games.China.EYou",
+    "imports": [
+      "games.China.Guangzhou Le Niu",
+      "games.China.Guangzhou manling"
+    ]
+  },
+  {
+    "name": "games.China.ChineseAll Digital Publishing Group",
+    "imports": [
+      "games.China.ChineseAll Digital Publishing Group",
+      "games.China.Amuse each other"
+    ]
+  },
+  {
+    "name": "games.United Kingdom.Vizor",
+    "imports": [
+      "games.United Kingdom.Vizor"
+    ]
+  },
+  {
+    "name": "games.Japan.SQUARE ENIX",
+    "imports": [
+      "games.Japan.Square Enix",
+      "games.Japan.CyberAgent",
+      "games.Japan.SQUARE ENIX"
+    ]
+  },
+  {
+    "name": "games.China.Dokemeng",
+    "imports": []
+  },
+  {
+    "name": "games.China.Guangzhou manling",
+    "imports": []
+  },
+  {
+    "name": "games.China.91ACT",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.WFS",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing Dpstorm",
+    "imports": []
+  },
+  {
+    "name": "games.China.Xianyu Game",
+    "imports": [
+      "games.China.Qinmeng game",
+      "games.China.Lingrengame"
+    ]
+  },
+  {
+    "name": "games.China.Qinmeng game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Giant Interactive",
+    "imports": [
+      "games.China.Giant Interactive"
+    ]
+  },
+  {
+    "name": "games.Austria.Supertreat",
+    "imports": [
+      "games.Austria.Supertreat"
+    ]
+  },
+  {
+    "name": "games.China.Winger network",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.joycity",
+    "imports": [
+      "games.China.Ledo"
+    ]
+  },
+  {
+    "name": "games.China.Ledo",
+    "imports": []
+  },
+  {
+    "name": "games.China.Bole Games",
+    "imports": [
+      "games.China.Bole Games"
+    ]
+  },
+  {
+    "name": "games.China.Wuhan shanbaihe",
+    "imports": []
+  },
+  {
+    "name": "games.China.Amuse each other",
+    "imports": []
+  },
+  {
+    "name": "games.China.Habby",
+    "imports": [
+      "games.China.Habby"
+    ]
+  },
+  {
+    "name": "games.Japan.EFUN",
+    "imports": [
+      "games.China.Capstone Games"
+    ]
+  },
+  {
+    "name": "games.China.Xiamen So Funny",
+    "imports": []
+  },
+  {
+    "name": "games.Cyprus.Nexters",
+    "imports": [
+      "games.Cyprus.Nexters"
+    ]
+  },
+  {
+    "name": "games.China.Skymoons",
+    "imports": [
+      "games.China.Skymoons"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.Playwith",
+    "imports": [
+      "games.Republic of Korea.NX3 Games"
+    ]
+  },
+  {
+    "name": "games.Republic of Korea.NX3 Games",
+    "imports": []
+  },
+  {
+    "name": "games.China.EJOY",
+    "imports": []
+  },
+  {
+    "name": "games.China.Guangzhou Cool tour",
+    "imports": []
+  },
+  {
+    "name": "games.China.Guangzhou Nemo",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing blueprint",
+    "imports": []
+  },
+  {
+    "name": "games.Denmark.Tactile Games",
+    "imports": [
+      "games.Denmark.Tactile Games"
+    ]
+  },
+  {
+    "name": "games.China.Renren com",
+    "imports": [
+      "games.China.ShenZhen Dameng Longtu"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai yunmiao",
+    "imports": []
+  },
+  {
+    "name": "games.China.Zhejiang Xingfei",
+    "imports": []
+  },
+  {
+    "name": "games.China.Shanghai Yiwan",
+    "imports": []
+  },
+  {
+    "name": "games.Republic of Korea.XL Games",
+    "imports": []
+  },
+  {
+    "name": "games.China.Yoka Games",
+    "imports": [
+      "games.China.Yoka Games"
+    ]
+  },
+  {
+    "name": "games.China.Baidu",
+    "imports": [
+      "games.China.Baidu",
+      "games.China.4399"
+    ]
+  },
+  {
+    "name": "games.Hong Kong, China.Six Waves",
+    "imports": [
+      "games.China.Rastar Game",
+      "games.China.Shanghai Ace ",
+      "games.China.Tencent game"
+    ]
+  },
+  {
+    "name": "games.China.Springgame",
+    "imports": [
+      "games.China.ShenZhen Dameng Longtu"
+    ]
+  },
+  {
+    "name": "games.Japan.Square Enix",
+    "imports": [
+      "games.Japan.Square Enix"
+    ]
+  },
+  {
+    "name": "games.Japan.Bushiroad",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.LEVEL-5",
+    "imports": [
+      "games.Japan.LEVEL-5"
+    ]
+  },
+  {
+    "name": "games.Japan.Liberent",
+    "imports": [
+      "games.Japan.Liberent"
+    ]
+  },
+  {
+    "name": "games.China.Beijing Com4loves Technology",
+    "imports": [
+      "games.China.Beijing Com4loves Technology"
+    ]
+  },
+  {
+    "name": "games.Japan.NHN Comico",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.Gumi",
+    "imports": [
+      "games.Japan.Gumi"
+    ]
+  },
+  {
+    "name": "games.Japan.Sega",
+    "imports": [
+      "games.Japan.Sega",
+      "games.Japan.ParkPosseGames"
+    ]
+  },
+  {
+    "name": "games.Japan.Ateam",
+    "imports": [
+      "games.Japan.Ateam"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai Ace ",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.Allfuz",
+    "imports": [
+      "games.Japan.Allfuz"
+    ]
+  },
+  {
+    "name": "games.Japan.Asobism",
+    "imports": [
+      "games.Japan.Asobism"
+    ]
+  },
+  {
+    "name": "games.Japan.Broccoli\u3001Klab",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.Rudel",
+    "imports": [
+      "games.Japan.Rudel"
+    ]
+  },
+  {
+    "name": "games.Japan.ParkPosseGames",
+    "imports": []
+  },
+  {
+    "name": "games.China.bilibili",
+    "imports": [
+      "games.Japan.DELiGHTWorks",
+      "games.China.360"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai Taren",
+    "imports": []
+  },
+  {
+    "name": "games.China.Duoyi",
+    "imports": [
+      "games.China.Duoyi"
+    ]
+  },
+  {
+    "name": "games.China.G-bits",
+    "imports": []
+  },
+  {
+    "name": "games.China.Pixel software",
+    "imports": []
+  },
+  {
+    "name": "games.China.Shanghai Zhina",
+    "imports": []
+  },
+  {
+    "name": "games.China.49You",
+    "imports": [
+      "games.China.Shanghai aoshitang"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai aoshitang",
+    "imports": []
+  },
+  {
+    "name": "games.China.JJ Game",
+    "imports": [
+      "games.China.JJ Game"
+    ]
+  },
+  {
+    "name": "games.China.Microfun",
+    "imports": [
+      "games.China.Microfun"
+    ]
+  },
+  {
+    "name": "games.China.Shanghai Moyu",
+    "imports": []
+  },
+  {
+    "name": "games.China.FingerTango",
+    "imports": [
+      "games.China.FingerTango",
+      "games.Taiwan, China.Lunge Online"
+    ]
+  },
+  {
+    "name": "games.Taiwan, China.Lunge Online",
+    "imports": []
+  },
+  {
+    "name": "games.China.Icingwork",
+    "imports": [
+      "games.China.Icingwork"
+    ]
+  },
+  {
+    "name": "games.China.9you",
+    "imports": []
+  },
+  {
+    "name": "games.China.Lilith game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing aileyou",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.IGNIS",
+    "imports": [
+      "games.Japan.IGNIS"
+    ]
+  },
+  {
+    "name": "games.China.Yonghang Technology",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.gumi",
+    "imports": [
+      "games.Japan.gumi"
+    ]
+  },
+  {
+    "name": "games.China.zs-e",
+    "imports": [
+      "games.China.zs-e"
+    ]
+  },
+  {
+    "name": "games.China.Beijing miracle Era",
+    "imports": []
+  },
+  {
+    "name": "games.France.Ubisoft",
+    "imports": [
+      "games.France.Ubisoft"
+    ]
+  },
+  {
+    "name": "games.China.Zhejiang Daily Digital culture",
+    "imports": [
+      "games.China.Winger network"
+    ]
+  },
+  {
+    "name": "games.China.Sunborn Network Technology",
+    "imports": [
+      "games.China.Sunborn"
+    ]
+  },
+  {
+    "name": "games.China.Snail Game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing Yunchang",
+    "imports": []
+  },
+  {
+    "name": "games.China.PandadaStudio",
+    "imports": [
+      "games.China.PandadaStudio"
+    ]
+  },
+  {
+    "name": "games.China.Beijing game Valley",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.SEGA",
+    "imports": [
+      "games.Japan.SEGA"
+    ]
+  },
+  {
+    "name": "games.China.Avalon Game",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing eplay",
+    "imports": []
+  },
+  {
+    "name": "games.China.Chengdu Yuxiang",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.GungHo",
+    "imports": [
+      "games.Japan.GungHo"
+    ]
+  },
+  {
+    "name": "games.Japan.BXD",
+    "imports": []
+  },
+  {
+    "name": "games.China.Shanghai Youxiang",
+    "imports": []
+  },
+  {
+    "name": "games.Japan.KLab",
+    "imports": [
+      "games.Japan.KLab"
+    ]
+  },
+  {
+    "name": "games.China.HyperGryph",
+    "imports": [
+      "games.China.HyperGryph"
+    ]
+  },
+  {
+    "name": "games.China.Beijing moge",
+    "imports": []
+  },
+  {
+    "name": "games.China.Guangzhou Indrasoft",
+    "imports": []
+  },
+  {
+    "name": "games.China.Lingrengame",
+    "imports": []
+  },
+  {
+    "name": "games.China.Beijing Youyi",
+    "imports": []
+  },
+  {
+    "name": "games.China.Tiancity",
+    "imports": []
+  },
+  {
+    "name": "games.China.Yoozoo Games",
+    "imports": []
+  },
+  {
+    "name": "games.China.360",
+    "imports": []
+  },
+  {
+    "name": "games.China.YouAI",
+    "imports": [
+      "games.China.YouAI"
+    ]
+  },
+  {
+    "name": "games.France.Gameloft",
+    "imports": []
+  },
+  {
+    "name": "games.China.Guangzhou Baitian",
+    "imports": []
+  },
+  {
+    "name": "games.China.Bilibili",
+    "imports": [
+      "games.China.Seasun Games"
+    ]
+  },
+  {
+    "name": "games.Japan.Marvelous",
+    "imports": [
+      "games.Japan.Marvelous"
+    ]
+  },
+  {
+    "name": "games.China.Guangzhou Kuluo",
+    "imports": []
+  }
+]

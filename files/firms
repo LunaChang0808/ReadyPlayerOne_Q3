@@ -1,0 +1,4106 @@
+{
+  "nodes": [
+    {
+      "name": "Tencent game",
+      "value": 30,
+      "colour": "#0080FF"
+    },
+    {
+      "name": "NetEase games",
+      "value": 26,
+      "colour": "#FF2D2D"
+    },
+    {
+      "name": "Netmarble Corporation",
+      "value": 24,
+      "colour": "#F9F900"
+    },
+    {
+      "name": "Bandai Namco Entertainment",
+      "value": 21,
+      "colour": "#bde0f6"
+    },
+    {
+      "name": "NEXON",
+      "value": 16,
+      "colour": "#A0522D"
+    },
+    {
+      "name": "GAMEVIL",
+      "value": 12,
+      "colour": "#eb5d00"
+    },
+    {
+      "name": "SQUARE ENIX",
+      "value": 11,
+      "colour": "#4f4fb1"
+    },
+    {
+      "name": "Aristocrat",
+      "value": 9,
+      "colour": "#808080"
+    },
+    {
+      "name": "CyberAgent",
+      "value": 9,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kakao",
+      "value": 8,
+      "colour": "#808080"
+    },
+    {
+      "name": "37GAMES",
+      "value": 8,
+      "colour": "#808080"
+    },
+    {
+      "name": "Perfect World",
+      "value": 8,
+      "colour": "#808080"
+    },
+    {
+      "name": "YOOZOO",
+      "value": 8,
+      "colour": "#808080"
+    },
+    {
+      "name": "DeNA",
+      "value": 8,
+      "colour": "#808080"
+    },
+    {
+      "name": "Glu",
+      "value": 7,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sony",
+      "value": 7,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zynga",
+      "value": 7,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playtika",
+      "value": 6,
+      "colour": "#808080"
+    },
+    {
+      "name": "COLOPL",
+      "value": 6,
+      "colour": "#808080"
+    },
+    {
+      "name": "GREE",
+      "value": 6,
+      "colour": "#808080"
+    },
+    {
+      "name": "4399",
+      "value": 6,
+      "colour": "#808080"
+    },
+    {
+      "name": "Electronic Arts",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "KONAMI",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "Scopely",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "FriendTimes",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "Happy Elements",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sega",
+      "value": 5,
+      "colour": "#808080"
+    },
+    {
+      "name": "NCSOFT",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "Neowiz",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "Supercell",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jedi Games",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "NHN Entertainment",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playrix",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "SEGA",
+      "value": 4,
+      "colour": "#808080"
+    },
+    {
+      "name": "X D Network",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Machine Zone",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Scientific Games",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Nintendo",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yotta Games",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Klab",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "GAEA",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Giant Interactive",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bole Games",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ateam",
+      "value": 3,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fuzhou SkyUnion Digital(IGG)",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Devsisters",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fun Plus",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Changyou",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Niantic",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Long Tech Network",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Peak Game",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "DoubleU",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Time Warner",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Huuuge Games",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Pocket Gems",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mail Ru Group",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Galaxy Online",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chuang Cool Entertainment",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gamesofa",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Dianchu Technology",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "International Games System",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "IGS",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kunlun Tech",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "GAME O",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tap4fun",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zlongame",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "SpringGame",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Lilith Games",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yoka Games",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Square Enix",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "LEVEL-5",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Liberent",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gumi",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "Allfuz",
+      "value": 2,
+      "colour": "#808080"
+    },
+    {
+      "name": "miHoYo",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Longtugame",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kingnet",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "DHGames",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Activision Blizzard",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Seasun Games",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Baidu",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ultrapower",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Elex Technology",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Akatsuki",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Vespa Interactive",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "OurPalm",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Roblox",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playstudio",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Rovio",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Miniclip",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "ONEMT",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "PixelGun",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "G5 Entertainment",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "MyTona",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Murka",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "N3TWORK",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Konami",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Small Giant Games",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Volcano-force",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gungho",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mad Head",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "SEA",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wanin Games",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Youkia",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Soft-World International Corporation",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "USERJOY",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Rastar Game",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "MIXI",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "PONOS",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "ChineseAll Digital Publishing Group",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "DigiSky",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Pearl Abyss",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "TFG Co",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Epic Games",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "MoonActive",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "ShenZhen Dameng Longtu",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sky Entertainment Network",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Disney",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Word Find",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Seriously Digital Entertainment",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wemade",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Storm8",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "YouAI",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "zs-e",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Magic Tavern",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "PlayStudio",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Vizor",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Supertreat",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Marvelous",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Habby",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Nexters",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Skymoons",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tactile Games",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "GungHo",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Com4loves Technology",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Asobism",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Rudel",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Duoyi",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "JJ Game",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Microfun",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "FingerTango",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Icingwork",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "IGNIS",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "gumi",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ubisoft",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "PandadaStudio",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "KLab",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "HyperGryph",
+      "value": 1,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sunborn",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "DELiGHTWorks",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Linekong",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ENP Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Webzen",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SundayToz",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Papergames",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SmileMeka",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Junhai Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "EFUN",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jiangsu Hongao",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "GAMFS",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SuperPlanet",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Foyoent",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jinshan Software",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "CraveMob",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sincetimes",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "AwesomePiece",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jianguo game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Next Floor",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "King",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ZuLong Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Camel game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Joycity",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kings Group",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Loadcomplete",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ourpalm",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "YD Online",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "WeMade",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "PLAYWITH",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Dawn interaction",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Moonton",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "PubGame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ekkorr",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "HanbitSoft",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Microsoft",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "mojang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "PlayStudios",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Top Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Modern Times Group",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kefir",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Nordcurrent",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Take Two Interactive",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ancestral Island",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "9sPlay",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Feihu",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Babeltime",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ican",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing green fruit smart",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Palace Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Line",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "9splay",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Haodong",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "T-time Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bonus Winner Online Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Enjoygame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "OMG",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fantasy Fish Digital Games ",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Xingluo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kimi Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Eyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Express",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wonderplanet",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "IWPLAY World",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "CMGE",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hero Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "A8 new media",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Panhuo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xiangley",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shengyou Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "iClockwork",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Shengtianshangyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SpellGun",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Bingfeng",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Pinjin",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing taiyouxi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Smart Alec",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playcrab",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu lmd game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Soft Star",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "King Kong entertains each other",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "CMWebGame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai douwan",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Seventh Avenue",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fingergame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Game beans",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing miracle Era",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "FHLgames",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "NTFusion",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Entermate",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Nine party interaction",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fun 123",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yumoon",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Craft Egg",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chaise network",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Dalcomsoft",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Seven Pirates",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hit-Point",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wanda",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hulai game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "U LU",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Chuyu",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Funtoy Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Leiting Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Taojinhudong",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hainan Yuanyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gamania",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wuhan chuangyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ME2ON",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Qiyou Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "X-Legend Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "YJM Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Com2us",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Youai",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Rayark",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Liveplex",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tianma",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Le Niu",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Funigloo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "efunfun",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Linyou interactive",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tipcat Interactive",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Windplay",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zhuhai Tianlong",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Novasmobi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "AliGames",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "PUBG",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "MAYN",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Smilegate",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "RAIDMOB",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Shiyue",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Capstone Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Maf",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hazard Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bertelsmann",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Oasis game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Winking",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SNK",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou manling",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gamonster",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Grani",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SkyLineMatrix",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Pokemon",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gamepub",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou rice husk",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yile Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "GAMEWORKS",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing qitianledi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Huaguan Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Ranger",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fincon",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Vivendi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gameloft",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Triple Double",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "PangSky",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "GAE",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai HR Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xunlong Chuangwei",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Cayenne Tech",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Aiming",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Super Creative",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "SZN Interaction Entertainment",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Zhuoxing",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Elock",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "More2game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Locojoy",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Vision\u00a0Bros",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "JoyCity",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Legou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mechanist\u00a0Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yinhan Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Cyzone",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tianhun network",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "77you",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shenzhen Yuexiang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Shuiguotang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "R2 Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou laguo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Youyi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shenzhen Yifan",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jingqi Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Longcheng network",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zhiyou Online",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mover Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Apostle",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "EYou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai CloudToad",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "EJOY",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ntori",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "HOUND 13",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Dokemeng",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gameduchy",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "91ACT",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "WFS",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "NGEL Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bluestone",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Dpstorm",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xianyu Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Qinmeng game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shuiqinling information technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Smart joy",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ED Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mobile War",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Winger network",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chujian",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing bingou Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shenzhen Muzi times",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing game Valley",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "BBGame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xiamen Bufang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "joycity",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Ledo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "gameboss",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gave game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Wuhan shanbaihe",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Qianlong Xincheng",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Poseidon net",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Jijia Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fun games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Interaction",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gamma shift",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "HeartsNet",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai magic world",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Gzhemera Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Amuse each other",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kingcheer Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xiamen So Funny",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zhejiang Xingfei",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Rainbow Horse",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Jiuling",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Xianshun",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Recoo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "EST",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Qianyi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playwith",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "NX3 Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Cool tour",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Netblue",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hainan Yunyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Longzhong network",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mofang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Shuo Xing",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Nemo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing blueprint",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zerogames",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Renren com",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai yunmiao",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mr Blue",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Yiwan",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "91muzhi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "q1",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Samfinaco",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tanwan Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "bilibili",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Lingyoufang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "XL Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Scene Stealer",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai junmeng",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "r2games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Meng I love",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "code ACT",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "C4GAMES",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Lingrengame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "OOZOO",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "one point one one",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Six Waves",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Springgame",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "EVATAR",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing douyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Fuzhou Jiarui",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing moge",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Colorful interaction",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bushiroad",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "NHN Comico",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Qiku Techonology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Ace ",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Drecom",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Mynet",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Broccoli\u3001Klab",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "enish",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "ParkPosseGames",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bank of Innovation",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Taren",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "G-bits",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Pixel software",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Zhina",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "49You",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai aoshitang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Moyu",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Lunge Online",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Founq",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Momo Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "9you",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sina Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Xiamen Qizheng",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Lilith game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing aileyou",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Donuts",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "mobcast",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Clover Lab",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yonghang Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tyler Fantl",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou gzyouai",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "MorningTec",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai xunyin",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Dragonest",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "G1dash",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Zhejiang Daily Digital culture",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yuyan culture",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Sunborn Network Technology",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Snail Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "GALA Sports",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "coly",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Yunchang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "KOEI GAMES",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Kick Ass",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Avalon Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing eplay",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Chengdu Yuxiang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Good Smile",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Playkot",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Exys",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Reazon",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "BXD",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Youxiang",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Umark Game",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "AIDS",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Cybird",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Indrasoft",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Beijing Youyi",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tuyoo Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Tiancity",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Yoozoo Games",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "360",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "CyberStep",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Baitian",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Hangzhou Electronic Soul",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Aquaplus",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shenzhen huohuangshenghuo",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Shanghai Aurora",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Bilibili",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou TIANTI",
+      "value": 0,
+      "colour": "#808080"
+    },
+    {
+      "name": "Guangzhou Kuluo",
+      "value": 0,
+      "colour": "#808080"
+    }
+  ],
+  "links": [
+    {
+      "source": 27,
+      "target": 27,
+      "value": 4
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "value": 24
+    },
+    {
+      "source": 4,
+      "target": 4,
+      "value": 16
+    },
+    {
+      "source": 148,
+      "target": 34,
+      "value": 1
+    },
+    {
+      "source": 9,
+      "target": 9,
+      "value": 8
+    },
+    {
+      "source": 74,
+      "target": 74,
+      "value": 1
+    },
+    {
+      "source": 149,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 28,
+      "target": 28,
+      "value": 4
+    },
+    {
+      "source": 29,
+      "target": 29,
+      "value": 4
+    },
+    {
+      "source": 44,
+      "target": 44,
+      "value": 2
+    },
+    {
+      "source": 21,
+      "target": 4,
+      "value": 2
+    },
+    {
+      "source": 5,
+      "target": 5,
+      "value": 12
+    },
+    {
+      "source": 75,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 35,
+      "target": 35,
+      "value": 3
+    },
+    {
+      "source": 3,
+      "target": 3,
+      "value": 21
+    },
+    {
+      "source": 30,
+      "target": 30,
+      "value": 4
+    },
+    {
+      "source": 45,
+      "target": 45,
+      "value": 2
+    },
+    {
+      "source": 77,
+      "target": 77,
+      "value": 1
+    },
+    {
+      "source": 46,
+      "target": 46,
+      "value": 2
+    },
+    {
+      "source": 158,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 159,
+      "target": 28,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 78,
+      "target": 78,
+      "value": 1
+    },
+    {
+      "source": 31,
+      "target": 31,
+      "value": 4
+    },
+    {
+      "source": 34,
+      "target": 34,
+      "value": 3
+    },
+    {
+      "source": 32,
+      "target": 32,
+      "value": 4
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 47,
+      "value": 2
+    },
+    {
+      "source": 48,
+      "target": 48,
+      "value": 2
+    },
+    {
+      "source": 170,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 82,
+      "target": 82,
+      "value": 1
+    },
+    {
+      "source": 172,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 173,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 83,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 79,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 84,
+      "target": 84,
+      "value": 1
+    },
+    {
+      "source": 174,
+      "target": 85,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 22,
+      "value": 5
+    },
+    {
+      "source": 49,
+      "target": 49,
+      "value": 2
+    },
+    {
+      "source": 17,
+      "target": 17,
+      "value": 6
+    },
+    {
+      "source": 86,
+      "target": 86,
+      "value": 1
+    },
+    {
+      "source": 50,
+      "target": 50,
+      "value": 2
+    },
+    {
+      "source": 21,
+      "target": 21,
+      "value": 5
+    },
+    {
+      "source": 51,
+      "target": 51,
+      "value": 2
+    },
+    {
+      "source": 7,
+      "target": 7,
+      "value": 9
+    },
+    {
+      "source": 52,
+      "target": 52,
+      "value": 2
+    },
+    {
+      "source": 53,
+      "target": 53,
+      "value": 2
+    },
+    {
+      "source": 36,
+      "target": 36,
+      "value": 3
+    },
+    {
+      "source": 14,
+      "target": 14,
+      "value": 7
+    },
+    {
+      "source": 37,
+      "target": 37,
+      "value": 3
+    },
+    {
+      "source": 54,
+      "target": 54,
+      "value": 2
+    },
+    {
+      "source": 87,
+      "target": 87,
+      "value": 1
+    },
+    {
+      "source": 149,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 88,
+      "target": 88,
+      "value": 1
+    },
+    {
+      "source": 89,
+      "target": 89,
+      "value": 1
+    },
+    {
+      "source": 184,
+      "target": 183,
+      "value": 1
+    },
+    {
+      "source": 16,
+      "target": 16,
+      "value": 7
+    },
+    {
+      "source": 90,
+      "target": 90,
+      "value": 1
+    },
+    {
+      "source": 23,
+      "target": 23,
+      "value": 5
+    },
+    {
+      "source": 91,
+      "target": 91,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 15,
+      "value": 7
+    },
+    {
+      "source": 55,
+      "target": 55,
+      "value": 2
+    },
+    {
+      "source": 92,
+      "target": 92,
+      "value": 1
+    },
+    {
+      "source": 93,
+      "target": 93,
+      "value": 1
+    },
+    {
+      "source": 94,
+      "target": 94,
+      "value": 1
+    },
+    {
+      "source": 95,
+      "target": 95,
+      "value": 1
+    },
+    {
+      "source": 96,
+      "target": 185,
+      "value": 1
+    },
+    {
+      "source": 97,
+      "target": 97,
+      "value": 1
+    },
+    {
+      "source": 98,
+      "target": 98,
+      "value": 1
+    },
+    {
+      "source": 34,
+      "target": 99,
+      "value": 1
+    },
+    {
+      "source": 100,
+      "target": 100,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 101,
+      "value": 3
+    },
+    {
+      "source": 102,
+      "target": 102,
+      "value": 1
+    },
+    {
+      "source": 56,
+      "target": 56,
+      "value": 2
+    },
+    {
+      "source": 57,
+      "target": 57,
+      "value": 2
+    },
+    {
+      "source": 103,
+      "target": 103,
+      "value": 1
+    },
+    {
+      "source": 149,
+      "target": 104,
+      "value": 1
+    },
+    {
+      "source": 105,
+      "target": 105,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 105,
+      "value": 1
+    },
+    {
+      "source": 10,
+      "target": 10,
+      "value": 8
+    },
+    {
+      "source": 58,
+      "target": 58,
+      "value": 2
+    },
+    {
+      "source": 59,
+      "target": 59,
+      "value": 2
+    },
+    {
+      "source": 107,
+      "target": 107,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 11,
+      "value": 8
+    },
+    {
+      "source": 200,
+      "target": 199,
+      "value": 1
+    },
+    {
+      "source": 60,
+      "target": 60,
+      "value": 2
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "value": 26
+    },
+    {
+      "source": 61,
+      "target": 61,
+      "value": 2
+    },
+    {
+      "source": 209,
+      "target": 208,
+      "value": 3
+    },
+    {
+      "source": 38,
+      "target": 38,
+      "value": 3
+    },
+    {
+      "source": 11,
+      "target": 211,
+      "value": 6
+    },
+    {
+      "source": 1,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 108,
+      "target": 108,
+      "value": 1
+    },
+    {
+      "source": 223,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 110,
+      "target": 110,
+      "value": 1
+    },
+    {
+      "source": 64,
+      "target": 64,
+      "value": 2
+    },
+    {
+      "source": 226,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 148,
+      "target": 110,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 235,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 111,
+      "target": 111,
+      "value": 1
+    },
+    {
+      "source": 193,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 236,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 241,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 112,
+      "target": 112,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 62,
+      "value": 1
+    },
+    {
+      "source": 247,
+      "target": 246,
+      "value": 2
+    },
+    {
+      "source": 18,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 25,
+      "target": 25,
+      "value": 5
+    },
+    {
+      "source": 106,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 99,
+      "target": 99,
+      "value": 1
+    },
+    {
+      "source": 113,
+      "target": 113,
+      "value": 1
+    },
+    {
+      "source": 114,
+      "target": 114,
+      "value": 1
+    },
+    {
+      "source": 252,
+      "target": 251,
+      "value": 2
+    },
+    {
+      "source": 115,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 253,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 255,
+      "target": 116,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 117,
+      "target": 117,
+      "value": 1
+    },
+    {
+      "source": 12,
+      "target": 12,
+      "value": 8
+    },
+    {
+      "source": 118,
+      "target": 118,
+      "value": 1
+    },
+    {
+      "source": 264,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 265,
+      "target": 208,
+      "value": 2
+    },
+    {
+      "source": 268,
+      "target": 267,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 34,
+      "value": 5
+    },
+    {
+      "source": 39,
+      "target": 39,
+      "value": 3
+    },
+    {
+      "source": 8,
+      "target": 8,
+      "value": 9
+    },
+    {
+      "source": 40,
+      "target": 40,
+      "value": 3
+    },
+    {
+      "source": 103,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 2
+    },
+    {
+      "source": 0,
+      "target": 274,
+      "value": 1
+    },
+    {
+      "source": 24,
+      "target": 24,
+      "value": 5
+    },
+    {
+      "source": 277,
+      "target": 211,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 279,
+      "target": 157,
+      "value": 2
+    },
+    {
+      "source": 22,
+      "target": 96,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 30
+    },
+    {
+      "source": 119,
+      "target": 119,
+      "value": 1
+    },
+    {
+      "source": 62,
+      "target": 62,
+      "value": 2
+    },
+    {
+      "source": 13,
+      "target": 34,
+      "value": 1
+    },
+    {
+      "source": 101,
+      "target": 101,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 40,
+      "value": 1
+    },
+    {
+      "source": 120,
+      "target": 120,
+      "value": 1
+    },
+    {
+      "source": 67,
+      "target": 67,
+      "value": 2
+    },
+    {
+      "source": 121,
+      "target": 121,
+      "value": 1
+    },
+    {
+      "source": 292,
+      "target": 116,
+      "value": 1
+    },
+    {
+      "source": 85,
+      "target": 85,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "value": 1
+    },
+    {
+      "source": 305,
+      "target": 199,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 106,
+      "value": 1
+    },
+    {
+      "source": 308,
+      "target": 276,
+      "value": 1
+    },
+    {
+      "source": 104,
+      "target": 104,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 13,
+      "value": 8
+    },
+    {
+      "source": 225,
+      "target": 85,
+      "value": 1
+    },
+    {
+      "source": 315,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 37,
+      "value": 1
+    },
+    {
+      "source": 316,
+      "target": 67,
+      "value": 1
+    },
+    {
+      "source": 124,
+      "target": 124,
+      "value": 1
+    },
+    {
+      "source": 59,
+      "target": 317,
+      "value": 1
+    },
+    {
+      "source": 65,
+      "target": 65,
+      "value": 2
+    },
+    {
+      "source": 11,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 318,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 19,
+      "target": 19,
+      "value": 6
+    },
+    {
+      "source": 125,
+      "target": 125,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 20,
+      "value": 6
+    },
+    {
+      "source": 323,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 265,
+      "target": 333,
+      "value": 2
+    },
+    {
+      "source": 109,
+      "target": 109,
+      "value": 1
+    },
+    {
+      "source": 126,
+      "target": 126,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 104,
+      "value": 1
+    },
+    {
+      "source": 286,
+      "target": 333,
+      "value": 1
+    },
+    {
+      "source": 340,
+      "target": 267,
+      "value": 1
+    },
+    {
+      "source": 66,
+      "target": 66,
+      "value": 2
+    },
+    {
+      "source": 341,
+      "target": 19,
+      "value": 1
+    },
+    {
+      "source": 116,
+      "target": 116,
+      "value": 1
+    },
+    {
+      "source": 344,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 346,
+      "target": 345,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 41,
+      "target": 41,
+      "value": 3
+    },
+    {
+      "source": 127,
+      "target": 127,
+      "value": 1
+    },
+    {
+      "source": 351,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 359,
+      "target": 358,
+      "value": 1
+    },
+    {
+      "source": 42,
+      "target": 42,
+      "value": 3
+    },
+    {
+      "source": 362,
+      "target": 46,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 129,
+      "target": 129,
+      "value": 1
+    },
+    {
+      "source": 372,
+      "target": 267,
+      "value": 1
+    },
+    {
+      "source": 374,
+      "target": 34,
+      "value": 1
+    },
+    {
+      "source": 130,
+      "target": 130,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 131,
+      "target": 66,
+      "value": 1
+    },
+    {
+      "source": 383,
+      "target": 382,
+      "value": 1
+    },
+    {
+      "source": 335,
+      "target": 65,
+      "value": 2
+    },
+    {
+      "source": 384,
+      "target": 208,
+      "value": 1
+    },
+    {
+      "source": 81,
+      "target": 81,
+      "value": 1
+    },
+    {
+      "source": 390,
+      "target": 116,
+      "value": 1
+    },
+    {
+      "source": 391,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 132,
+      "target": 132,
+      "value": 1
+    },
+    {
+      "source": 115,
+      "target": 393,
+      "value": 1
+    },
+    {
+      "source": 394,
+      "target": 157,
+      "value": 1
+    },
+    {
+      "source": 375,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 403,
+      "target": 9,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 78,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 116,
+      "value": 1
+    },
+    {
+      "source": 80,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 413,
+      "value": 2
+    },
+    {
+      "source": 115,
+      "target": 414,
+      "value": 1
+    },
+    {
+      "source": 20,
+      "target": 80,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 6,
+      "value": 5
+    },
+    {
+      "source": 241,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 6,
+      "value": 11
+    },
+    {
+      "source": 96,
+      "target": 96,
+      "value": 1
+    },
+    {
+      "source": 18,
+      "target": 18,
+      "value": 6
+    },
+    {
+      "source": 420,
+      "target": 39,
+      "value": 2
+    },
+    {
+      "source": 70,
+      "target": 70,
+      "value": 2
+    },
+    {
+      "source": 71,
+      "target": 71,
+      "value": 2
+    },
+    {
+      "source": 134,
+      "target": 134,
+      "value": 1
+    },
+    {
+      "source": 421,
+      "target": 31,
+      "value": 1
+    },
+    {
+      "source": 72,
+      "target": 72,
+      "value": 2
+    },
+    {
+      "source": 26,
+      "target": 26,
+      "value": 5
+    },
+    {
+      "source": 43,
+      "target": 43,
+      "value": 3
+    },
+    {
+      "source": 423,
+      "target": 413,
+      "value": 1
+    },
+    {
+      "source": 73,
+      "target": 73,
+      "value": 2
+    },
+    {
+      "source": 135,
+      "target": 135,
+      "value": 1
+    },
+    {
+      "source": 426,
+      "target": 39,
+      "value": 1
+    },
+    {
+      "source": 136,
+      "target": 136,
+      "value": 1
+    },
+    {
+      "source": 428,
+      "target": 26,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 267,
+      "value": 1
+    },
+    {
+      "source": 264,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 149,
+      "target": 401,
+      "value": 1
+    },
+    {
+      "source": 276,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 430,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 47,
+      "target": 0,
+      "value": 2
+    },
+    {
+      "source": 79,
+      "target": 0,
+      "value": 5
+    },
+    {
+      "source": 137,
+      "target": 137,
+      "value": 1
+    },
+    {
+      "source": 431,
+      "target": 251,
+      "value": 1
+    },
+    {
+      "source": 432,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 106,
+      "target": 0,
+      "value": 2
+    },
+    {
+      "source": 63,
+      "target": 0,
+      "value": 5
+    },
+    {
+      "source": 433,
+      "target": 76,
+      "value": 1
+    },
+    {
+      "source": 435,
+      "target": 434,
+      "value": 1
+    },
+    {
+      "source": 138,
+      "target": 138,
+      "value": 1
+    },
+    {
+      "source": 41,
+      "target": 0,
+      "value": 2
+    },
+    {
+      "source": 225,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 139,
+      "target": 139,
+      "value": 1
+    },
+    {
+      "source": 436,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 174,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 110,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 78,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 76,
+      "value": 1
+    },
+    {
+      "source": 279,
+      "target": 246,
+      "value": 1
+    },
+    {
+      "source": 140,
+      "target": 140,
+      "value": 1
+    },
+    {
+      "source": 437,
+      "target": 140,
+      "value": 1
+    },
+    {
+      "source": 141,
+      "target": 141,
+      "value": 1
+    },
+    {
+      "source": 440,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 443,
+      "target": 75,
+      "value": 1
+    },
+    {
+      "source": 444,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 420,
+      "target": 83,
+      "value": 1
+    },
+    {
+      "source": 142,
+      "target": 142,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 69,
+      "value": 2
+    },
+    {
+      "source": 448,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 143,
+      "target": 143,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 69,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 21,
+      "target": 0,
+      "value": 2
+    },
+    {
+      "source": 123,
+      "target": 123,
+      "value": 1
+    },
+    {
+      "source": 234,
+      "target": 65,
+      "value": 1
+    },
+    {
+      "source": 318,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 68,
+      "target": 68,
+      "value": 2
+    },
+    {
+      "source": 144,
+      "target": 144,
+      "value": 1
+    },
+    {
+      "source": 351,
+      "target": 455,
+      "value": 1
+    },
+    {
+      "source": 79,
+      "target": 79,
+      "value": 1
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 148,
+      "target": 457,
+      "value": 1
+    },
+    {
+      "source": 340,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 458,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 103,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 461,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 279,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 145,
+      "target": 145,
+      "value": 1
+    },
+    {
+      "source": 134,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 355,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 63,
+      "target": 63,
+      "value": 2
+    },
+    {
+      "source": 33,
+      "target": 33,
+      "value": 4
+    },
+    {
+      "source": 359,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 464,
+      "target": 251,
+      "value": 1
+    },
+    {
+      "source": 465,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 466,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 133,
+      "target": 133,
+      "value": 1
+    },
+    {
+      "source": 131,
+      "target": 131,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 0,
+      "value": 3
+    },
+    {
+      "source": 372,
+      "target": 109,
+      "value": 1
+    },
+    {
+      "source": 471,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 472,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 146,
+      "target": 146,
+      "value": 1
+    },
+    {
+      "source": 147,
+      "target": 147,
+      "value": 1
+    },
+    {
+      "source": 76,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 418,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 225,
+      "target": 264,
+      "value": 2
+    },
+    {
+      "source": 476,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 410,
+      "target": 345,
+      "value": 1
+    },
+    {
+      "source": 477,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 83,
+      "target": 83,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 413,
+      "value": 1
+    },
+    {
+      "source": 479,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 480,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 481,
+      "target": 401,
+      "value": 1
+    },
+    {
+      "source": 122,
+      "target": 122,
+      "value": 1
+    },
+    {
+      "source": 300,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 335,
+      "target": 273,
+      "value": 1
+    },
+    {
+      "source": 483,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 390,
+      "target": 47,
+      "value": 1
+    },
+    {
+      "source": 115,
+      "target": 115,
+      "value": 1
+    },
+    {
+      "source": 79,
+      "target": 488,
+      "value": 1
+    },
+    {
+      "source": 128,
+      "target": 128,
+      "value": 1
+    },
+    {
+      "source": 490,
+      "target": 213,
+      "value": 1
+    },
+    {
+      "source": 226,
+      "target": 13,
+      "value": 1
+    },
+    {
+      "source": 391,
+      "target": 0,
+      "value": 1
+    }
+  ]
+}
